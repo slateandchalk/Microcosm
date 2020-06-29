@@ -1,16 +1,14 @@
-# microcosm
+# Microcosm
+The Microcosm in my college is doing sustainable projects.
 
-A new Flutter project.
+[Web Preview](https://sacmicrocosm.web.app/)
 
-## Getting Started
+## Problem Statement
 
-This project is a starting point for a Flutter application.
+The Microcosm in my college is doing sustainable projects, and one among them is, they use recycled water to water the trees. The problem identified by them is that due to the pandemic there is no availability of recycled water.
 
-A few resources to get you started if this is your first Flutter project:
+## Solution
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+They've come up with an app named stats which can be used to note down the amount of water required for each tree on a daily basis. In this process, water storage will be calculated and each tree will be given a number. By doing this the amount of water required for each tree will be noted using the app. This will help to calculate the amount of water required for the next day. So before the pandemic hits, we will be able to calculate the amount of water we have, using the app and the amount required for the upcoming days
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+####Team Slate & Chalk
